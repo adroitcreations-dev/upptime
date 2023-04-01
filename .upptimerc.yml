@@ -12,6 +12,7 @@ sites:
     url: https://thecreationroom.com/
   - name: Status page - elementOrg
     url: https://status.elementorg.com
+    __dangerous__disable_verify_peer: true
   - name: NGSC elementORG
     url: https://ngsc.elementorg.com
   - name: elementTime website
