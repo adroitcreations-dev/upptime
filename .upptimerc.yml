@@ -1,26 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: adroitcreations-dev # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+timezone: Pacific/Auckland
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Yorke Peninsula Council
+    url: https://yorke.sa.gov.au/
+  - name: Yorke elementOrg
+    url: https://yorke.elementorg.com
+  - name: The Creation Room
+    url: http://www.thecreationroom.com
+  - name: Status page - elementOrg
+    url: https://status.elementorg.com
+  - name: NGSC elementORG
+    url: https://ngsc.elementorg.com
+  - name: elementTime website
+    url: https://www.elementtime.com/
+  - name: elementTime
+    url: https://yorke.elementtime.com/validate
+  - name: elementStaff - york
+    url: https://yorke.elementstaff.com
+  - name: elementStaff - www
+    url: http://www.elementstaff.com
+  - name: elementStaff2
+    url: https://testyorke.elementstaff.com/api/health
+  - name: elementRec 
+    url: https://mountbarker.elementrec.com/apis/system/health
+  - name: Adroit Creations website
+    url: https://www.adroitcreations.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime monitor and status page for Adroit Creations, powered by GitHub."
+  introMessage: Status page which uses **real-time** data from our [GitHub repository](https://github.com/adroitcreations-dev/upptime))
   navbar:
     - title: Status
       href: /
