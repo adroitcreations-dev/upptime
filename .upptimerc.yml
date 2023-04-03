@@ -15,6 +15,12 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: NGSC elementORG
     url: https://ngsc.elementorg.com
+  - name: Leeton elementORG
+    url: https://leeton.elementorg.com/
+  - name: Mt Barker elementORG
+    url: https://mountbarker.elementorg.com/
+  - name: Online burnoffs
+    url: https://sa.fires.elementorg.com/
   - name: elementTime website
     url: https://www.elementtime.com/
   - name: elementTime
