@@ -136,19 +136,19 @@
     "url": "https://sa.fires.elementorg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sa.fires.elementorg.com.ico",
     "slug": "online-burnoffs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1275,
-    "timeDay": 1423,
-    "timeWeek": 1289,
-    "timeMonth": 1275,
-    "timeYear": 1275,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1274,
+    "timeDay": 1341,
+    "timeWeek": 1285,
+    "timeMonth": 1274,
+    "timeYear": 1274,
     "dailyMinutesDown": {
-      "2023-04-13": 0
+      "2023-04-13": 8
     }
   },
   {
