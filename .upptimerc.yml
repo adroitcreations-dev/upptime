@@ -4,37 +4,47 @@ repo: upptime # The name of this repository
 timezone: Pacific/Auckland
 
 sites:
-  - name: Yorke Peninsula Council
+  - name: Yorke Peninsula Council website
     url: https://yorke.sa.gov.au/
-  - name: Yorke elementOrg
+  - name: Yorke elementORG
     url: https://yorke.elementorg.com
-  - name: The Creation Room
-    url: https://thecreationroom.com/
-  - name: Status page - elementOrg
+  - name: Status page - elementORG
     url: https://status.elementorg.com
     __dangerous__disable_verify_peer: true
   - name: NGSC elementORG
     url: https://ngsc.elementorg.com
   - name: Leeton elementORG
     url: https://leeton.elementorg.com/
+  - name: YPC elementORG
+    url: https://ypc.elementorg.com/
+  - name: Adroit Creations elementORG
+    url: https://adroitcreations.elementorg.com/
   - name: Mt Barker elementORG
     url: https://mountbarker.elementorg.com/
-  - name: Online burnoffs
+  - name: Demo Forms wp-cron for testing AD sync
+    url: https://demo-forms.elementorg.com/wp-cron.php
+  - name: SA Fires
     url: https://sa.fires.elementorg.com/
-  - name: elementTime website
-    url: https://www.elementtime.com/
-  - name: elementTime
+  - name: Online burn-offs
+    url: https://sa.burnoffs.elementorg.com/
+  - name: elementTIME - Yorke validate
     url: https://yorke.elementtime.com/validate
-  - name: elementStaff - york
+  - name: elementSTAFF - yorke
     url: https://yorke.elementstaff.com
-  - name: elementStaff - www
-    url: http://www.elementstaff.com
-  - name: elementStaff2
+  - name: elementSTAFF - Test Yorke API health
     url: https://testyorke.elementstaff.com/api/health
   - name: elementRec 
     url: https://mountbarker.elementrec.com/apis/system/health
+  - name: elementSTAFF website
+    url: https://www.elementstaff.com
+  - name: elementORG website
+    url: https://www.elementorg.com
+  - name: elementTIME website
+    url: https://www.elementtime.com/
   - name: Adroit Creations website
     url: https://www.adroitcreations.com
+  - name: The Creation Room
+    url: https://thecreationroom.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
