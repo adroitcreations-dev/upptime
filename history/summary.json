@@ -184,18 +184,20 @@
     "url": "https://sa.burnoffs.elementorg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sa.burnoffs.elementorg.com.ico",
     "slug": "online-burn-offs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2328,
-    "timeDay": 2390,
-    "timeWeek": 2328,
-    "timeMonth": 2328,
-    "timeYear": 2328,
-    "dailyMinutesDown": {}
+    "time": 2148,
+    "timeDay": 1637,
+    "timeWeek": 2148,
+    "timeMonth": 2148,
+    "timeYear": 2148,
+    "dailyMinutesDown": {
+      "2025-02-13": 0
+    }
   },
   {
     "name": "elementTIME - Yorke validate",
