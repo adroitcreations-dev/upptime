@@ -168,9 +168,9 @@
     "url": "https://sa.fires.elementorg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sa.fires.elementorg.com.ico",
     "slug": "sa-fires",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +179,9 @@
     "timeWeek": 1341,
     "timeMonth": 1765,
     "timeYear": 1765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-26": 0
+    }
   },
   {
     "name": "Online burn-offs",
