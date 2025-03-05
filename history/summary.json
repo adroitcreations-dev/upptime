@@ -208,9 +208,9 @@
     "url": "https://yorke.elementtime.com/validate",
     "icon": "https://icons.duckduckgo.com/ip3/yorke.elementtime.com.ico",
     "slug": "element-time-yorke-validate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 932,
     "timeMonth": 1688,
     "timeYear": 1688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-05": 0
+    }
   },
   {
     "name": "elementSTAFF - yorke",
@@ -247,12 +249,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 833,
     "timeDay": 833,
-    "timeWeek": 803,
+    "timeWeek": 821,
     "timeMonth": 833,
     "timeYear": 833,
     "dailyMinutesDown": {
