@@ -78,19 +78,19 @@
     "url": "https://leeton.elementorg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leeton.elementorg.com.ico",
     "slug": "leeton-element-org",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1971,
-    "timeDay": 1857,
-    "timeWeek": 1862,
-    "timeMonth": 1869,
-    "timeYear": 1869,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
+    "time": 1965,
+    "timeDay": 1779,
+    "timeWeek": 1842,
+    "timeMonth": 1863,
+    "timeYear": 1863,
     "dailyMinutesDown": {
-      "2025-03-05": 0
+      "2025-03-05": 71
     }
   },
   {
