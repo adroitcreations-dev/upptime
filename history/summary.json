@@ -22,9 +22,9 @@
     "url": "https://yorke.elementorg.com",
     "icon": "https://icons.duckduckgo.com/ip3/yorke.elementorg.com.ico",
     "slug": "yorke-element-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 2550,
     "timeYear": 2949,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2025-02-20": 17
     }
   },
