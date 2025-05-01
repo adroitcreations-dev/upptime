@@ -265,26 +265,6 @@
     }
   },
   {
-    "name": "elementRec",
-    "url": "https://mountbarker.elementrec.com/apis/system/health",
-    "icon": "https://icons.duckduckgo.com/ip3/mountbarker.elementrec.com.ico",
-    "slug": "element-rec",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "95.76%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
-    "time": 791,
-    "timeDay": 680,
-    "timeWeek": 698,
-    "timeMonth": 730,
-    "timeYear": 786,
-    "dailyMinutesDown": {
-      "2025-05-01": 61
-    }
-  },
-  {
     "name": "elementSTAFF website",
     "url": "https://www.elementstaff.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.elementstaff.com.ico",
