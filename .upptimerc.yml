@@ -33,8 +33,6 @@ sites:
     url: https://yorke.elementstaff.com
   - name: elementSTAFF - Test Yorke API health
     url: https://testyorke.elementstaff.com/api/health
-  - name: elementRec 
-    url: https://mountbarker.elementrec.com/apis/system/health
   - name: elementSTAFF website
     url: https://www.elementstaff.com
   - name: elementORG website
