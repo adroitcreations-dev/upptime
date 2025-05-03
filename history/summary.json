@@ -119,10 +119,10 @@
     "url": "https://adroitcreations.elementorg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/adroitcreations.elementorg.com.ico",
     "slug": "adroit-creations-element-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 3438,
@@ -131,6 +131,7 @@
     "timeMonth": 3163,
     "timeYear": 3438,
     "dailyMinutesDown": {
+      "2025-05-03": 1,
       "2025-05-02": 20
     }
   },
