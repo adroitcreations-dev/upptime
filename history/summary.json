@@ -157,19 +157,19 @@
     "url": "https://demo-forms.elementorg.com/wp-cron.php",
     "icon": "https://icons.duckduckgo.com/ip3/demo-forms.elementorg.com.ico",
     "slug": "demo-forms-wp-cron-for-testing-ad-sync",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 679,
-    "timeWeek": 697,
-    "timeMonth": 675,
-    "timeYear": 689,
+    "time": 690,
+    "timeDay": 731,
+    "timeWeek": 708,
+    "timeMonth": 679,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-05-12": 0
+      "2025-05-12": 5
     }
   },
   {
