@@ -4,10 +4,10 @@
     "url": "https://yorke.sa.gov.au/",
     "icon": "https://icons.duckduckgo.com/ip3/yorke.sa.gov.au.ico",
     "slug": "yorke-peninsula-council-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2022,
@@ -15,7 +15,9 @@
     "timeWeek": 2316,
     "timeMonth": 2179,
     "timeYear": 2022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-08": 1
+    }
   },
   {
     "name": "Yorke elementORG",
