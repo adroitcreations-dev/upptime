@@ -6,8 +6,8 @@
     "slug": "yorke-peninsula-council-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 2073,
@@ -16,7 +16,6 @@
     "timeMonth": 2280,
     "timeYear": 2073,
     "dailyMinutesDown": {
-      "2025-06-20": 2,
       "2025-06-08": 26
     }
   },
@@ -127,8 +126,8 @@
     "slug": "adroit-creations-element-org",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3632,
@@ -137,7 +136,6 @@
     "timeMonth": 3396,
     "timeYear": 3632,
     "dailyMinutesDown": {
-      "2025-06-20": 2,
       "2025-05-02": 20
     }
   },
@@ -166,8 +164,8 @@
     "slug": "demo-forms-wp-cron-for-testing-ad-sync",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
@@ -175,9 +173,7 @@
     "timeWeek": 615,
     "timeMonth": 687,
     "timeYear": 691,
-    "dailyMinutesDown": {
-      "2025-06-20": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SA Fires",
@@ -282,8 +278,8 @@
     "slug": "element-staff-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
@@ -291,9 +287,7 @@
     "timeWeek": 705,
     "timeMonth": 843,
     "timeYear": 863,
-    "dailyMinutesDown": {
-      "2025-06-20": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "elementORG website",
@@ -302,8 +296,8 @@
     "slug": "element-org-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 864,
@@ -311,9 +305,7 @@
     "timeWeek": 752,
     "timeMonth": 861,
     "timeYear": 864,
-    "dailyMinutesDown": {
-      "2025-06-20": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "elementTIME website",
@@ -322,8 +314,8 @@
     "slug": "element-time-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2992,
@@ -332,7 +324,6 @@
     "timeMonth": 2170,
     "timeYear": 3047,
     "dailyMinutesDown": {
-      "2025-06-20": 2,
       "2025-05-02": 20
     }
   },
@@ -343,8 +334,8 @@
     "slug": "adroit-creations-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2703,
@@ -353,7 +344,6 @@
     "timeMonth": 2541,
     "timeYear": 2691,
     "dailyMinutesDown": {
-      "2025-06-20": 2,
       "2025-05-02": 20
     }
   },
@@ -364,8 +354,8 @@
     "slug": "the-creation-room",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 773,
@@ -373,8 +363,6 @@
     "timeWeek": 688,
     "timeMonth": 768,
     "timeYear": 784,
-    "dailyMinutesDown": {
-      "2025-06-20": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
