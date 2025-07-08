@@ -343,9 +343,9 @@
     "slug": "adroit-creations-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2651,
     "timeDay": 2588,
@@ -353,7 +353,6 @@
     "timeMonth": 2284,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2025-07-07": 8,
       "2025-06-26": 19,
       "2025-05-02": 20
     }
