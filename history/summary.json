@@ -104,9 +104,9 @@
     "url": "https://ypc.elementorg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ypc.elementorg.com.ico",
     "slug": "ypc-element-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -116,6 +116,7 @@
     "timeMonth": 1626,
     "timeYear": 1650,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-05-30": 173,
       "2025-05-29": 19,
       "2025-04-28": 19
