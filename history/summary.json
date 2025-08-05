@@ -30,9 +30,9 @@
     "slug": "yorke-element-org",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2949,
     "timeDay": 2571,
@@ -40,7 +40,6 @@
     "timeMonth": 2712,
     "timeYear": 2833,
     "dailyMinutesDown": {
-      "2025-08-04": 7,
       "2025-04-29": 18,
       "2025-02-20": 17
     }
