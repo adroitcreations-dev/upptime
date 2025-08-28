@@ -257,9 +257,9 @@
     "url": "https://yorke.elementstaff.com",
     "icon": "https://icons.duckduckgo.com/ip3/yorke.elementstaff.com.ico",
     "slug": "element-staff-yorke",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -269,6 +269,7 @@
     "timeMonth": 816,
     "timeYear": 847,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-26": 16
     }
   },
