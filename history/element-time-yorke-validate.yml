@@ -1,7 +1,7 @@
 url: https://yorke.elementtime.com/validate
-status: up
-code: 200
-responseTime: 978
-lastUpdated: 2025-08-30T23:07:28.243Z
+status: down
+code: 500
+responseTime: 6045
+lastUpdated: 2025-08-31T04:10:51.492Z
 startTime: 2025-02-06T23:26:29.867Z
 generator: Upptime <https://github.com/upptime/upptime>
