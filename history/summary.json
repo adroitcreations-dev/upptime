@@ -73,9 +73,9 @@
     "url": "https://ngsc.elementorg.com",
     "icon": "https://icons.duckduckgo.com/ip3/ngsc.elementorg.com.ico",
     "slug": "ngsc-element-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -85,6 +85,7 @@
     "timeMonth": 1551,
     "timeYear": 1545,
     "dailyMinutesDown": {
+      "2025-10-06": 0,
       "2025-07-31": 15
     }
   },
