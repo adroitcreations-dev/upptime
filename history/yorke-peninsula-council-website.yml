@@ -1,7 +1,7 @@
 url: https://yorke.sa.gov.au/
-status: up
-code: 200
-responseTime: 2540
-lastUpdated: 2025-10-12T23:06:50.125Z
+status: down
+code: 415
+responseTime: 604
+lastUpdated: 2025-10-13T14:47:52.004Z
 startTime: 2025-02-06T23:25:59.413Z
 generator: Upptime <https://github.com/upptime/upptime>
