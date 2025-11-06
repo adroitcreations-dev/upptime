@@ -1,7 +1,7 @@
 url: https://www.elementorg.com
-status: up
-code: 200
-responseTime: 3586
-lastUpdated: 2025-11-06T03:07:00.368Z
+status: down
+code: 415
+responseTime: 648
+lastUpdated: 2025-11-06T22:33:09.197Z
 startTime: 2025-02-06T23:26:35.800Z
 generator: Upptime <https://github.com/upptime/upptime>
