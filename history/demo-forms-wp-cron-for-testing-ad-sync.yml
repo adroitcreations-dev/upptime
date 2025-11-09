@@ -1,7 +1,7 @@
 url: https://demo-forms.elementorg.com/wp-cron.php
-status: up
-code: 200
-responseTime: 664
-lastUpdated: 2025-11-09T07:45:27.885Z
+status: down
+code: 415
+responseTime: 730
+lastUpdated: 2025-11-09T16:40:35.561Z
 startTime: 2025-02-06T23:26:23.714Z
 generator: Upptime <https://github.com/upptime/upptime>
