@@ -6,43 +6,62 @@ timezone: Pacific/Auckland
 sites:
   - name: Yorke Peninsula Council website
     url: https://yorke.sa.gov.au/
+    maxResponseTime: 15000
   - name: Yorke elementORG
     url: https://yorke.elementorg.com
+    maxResponseTime: 15000
   - name: Status page - elementORG
     url: https://status.elementorg.com
+    maxResponseTime: 15000
     __dangerous__disable_verify_peer: true
   - name: NGSC elementORG
     url: https://ngsc.elementorg.com
+    maxResponseTime: 15000
   - name: Leeton elementORG
     url: https://leeton.elementorg.com/
+    maxResponseTime: 15000
   - name: YPC elementORG
     url: https://ypc.elementorg.com/
+    maxResponseTime: 15000
   - name: Adroit Creations elementORG
     url: https://adroitcreations.elementorg.com/
+    maxResponseTime: 15000
   - name: Mt Barker elementORG
     url: https://mountbarker.elementorg.com/
+    maxResponseTime: 15000
   - name: Demo Forms wp-cron for testing AD sync
     url: https://demo-forms.elementorg.com/wp-cron.php
+    maxResponseTime: 15000
   - name: SA Fires
     url: https://sa.fires.elementorg.com/
+    maxResponseTime: 15000
   - name: Online burn-offs
     url: https://sa.burnoffs.elementorg.com/
+    maxResponseTime: 15000
   - name: elementTIME - Yorke validate
     url: https://yorke.elementtime.com/validate
+    maxResponseTime: 15000
   - name: elementSTAFF - yorke
     url: https://yorke.elementstaff.com
+    maxResponseTime: 15000
   - name: elementSTAFF - Test Yorke API health
     url: https://testyorke.elementstaff.com/api/health
+    maxResponseTime: 15000
   - name: elementSTAFF website
     url: https://www.elementstaff.com
+    maxResponseTime: 15000
   - name: elementORG website
     url: https://www.elementorg.com
+    maxResponseTime: 15000
   - name: elementTIME website
     url: https://www.elementtime.com/
+    maxResponseTime: 15000
   - name: Adroit Creations website
     url: https://www.adroitcreations.com
+    maxResponseTime: 15000
   - name: The Creation Room
     url: https://thecreationroom.com/
+    maxResponseTime: 15000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
